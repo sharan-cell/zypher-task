@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/zypher-task/static/css/main.9c248693.chunk.css",
+    "main.js": "/zypher-task/static/js/main.f1fa7529.chunk.js",
+    "main.js.map": "/zypher-task/static/js/main.f1fa7529.chunk.js.map",
+    "runtime-main.js": "/zypher-task/static/js/runtime-main.4e5e1c7a.js",
+    "runtime-main.js.map": "/zypher-task/static/js/runtime-main.4e5e1c7a.js.map",
+    "static/js/2.115dc406.chunk.js": "/zypher-task/static/js/2.115dc406.chunk.js",
+    "static/js/2.115dc406.chunk.js.map": "/zypher-task/static/js/2.115dc406.chunk.js.map",
+    "static/js/3.f7ec7a9d.chunk.js": "/zypher-task/static/js/3.f7ec7a9d.chunk.js",
+    "static/js/3.f7ec7a9d.chunk.js.map": "/zypher-task/static/js/3.f7ec7a9d.chunk.js.map",
+    "index.html": "/zypher-task/index.html",
+    "static/css/main.9c248693.chunk.css.map": "/zypher-task/static/css/main.9c248693.chunk.css.map",
+    "static/js/2.115dc406.chunk.js.LICENSE.txt": "/zypher-task/static/js/2.115dc406.chunk.js.LICENSE.txt",
+    "static/media/laptop.e58aa596.jpg": "/zypher-task/static/media/laptop.e58aa596.jpg",
+    "static/media/wall.b9ea5b36.jpg": "/zypher-task/static/media/wall.b9ea5b36.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e5e1c7a.js",
+    "static/js/2.115dc406.chunk.js",
+    "static/css/main.9c248693.chunk.css",
+    "static/js/main.f1fa7529.chunk.js"
+  ]
+}
